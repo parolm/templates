@@ -1,0 +1,36 @@
+body {
+  background: url("../images/background-image.jpg") no-repeat center
+    center fixed;
+  background-size: cover;
+  font-family: "Lobster", cursive;
+}
+
+div {
+  background-color: #dd4818;
+  width: 40%;
+  margin: 100px auto;
+  text-align: center;
+  opacity: 75%;
+  border-radius: 25px;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+p {
+  font-size: 1.8em;
+}
+
+i {
+  color: #fff;
+}
+
+button {
+  background-color: rgb(50, 50, 50);
+  color: #fff;
+  padding: 20px;
+  border-radius: 35px;
+  font-size: 1em;
+  margin-bottom: 10px;
+}
