@@ -1,7 +1,7 @@
 # templates
 A repository containing sample templates designed for practice
 
-#FitoFitGym
+**#FitoFitGym**
 A non-responsive coming soon landing page designed using HTML and CSS. Steps to run locally:
  1. Clone the repository
  2. Open folder fito-fit-gym.
